@@ -1,0 +1,14 @@
+Executable : C:\UserDrive\SDK\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+-HC:\UserDrive\WorkSpace\NDK\android-ndk-master\hello-jniCallback\app\src\main\cpp
+-BC:\UserDrive\WorkSpace\NDK\android-ndk-master\hello-jniCallback\app\.externalNativeBuild\cmake\debug\x86
+-DANDROID_ABI=x86
+-DANDROID_PLATFORM=android-21
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\UserDrive\WorkSpace\NDK\android-ndk-master\hello-jniCallback\app\build\intermediates\cmake\debug\obj\x86
+-DCMAKE_BUILD_TYPE=Debug
+-DANDROID_NDK=C:\UserDrive\SDK\ndk-bundle
+-DCMAKE_TOOLCHAIN_FILE=C:\UserDrive\SDK\ndk-bundle\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=C:\UserDrive\SDK\cmake\3.6.4111459\bin\ninja.exe
+-GAndroid Gradle - Ninja
+jvmArgs : 
+
